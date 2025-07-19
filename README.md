@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Muhammadyusuf</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=15%2B%20Year%20Old%20Self-Taught%20Programmer;Web%20Developer%20%26%20Tech%20Enthusiast;Always%20learning%20something%20new!&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.demolab.com/?lines=16%2B%20Year%20Old%20Self-Taught%20Programmer;Web%20Developer%20%26%20Tech%20Enthusiast;Always%20learning%20something%20new!&center=true&width=500&height=45">
 </p>
 
 ---
@@ -20,7 +20,7 @@
 ### 🛠️ Languages & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,html,css,python,java,sqlite,github,git,react" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,python,java,sqlite,github,git" />
 </p>
 
 ---
