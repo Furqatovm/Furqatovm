@@ -6,8 +6,4 @@
 - 😄 Pronouns: ...  
 - ⚡ Fun fact: ... just a bit intovert person 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Furqatovm)](https://github.com/anuraghazra/github-readme-stats)
-
-<!---
-Furqatovm/Furqatovm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Furqatovm&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
