@@ -36,7 +36,7 @@
 
 ### 🌍 Connect with Me
 
-- 📧 Email: `your@email.com`
+- 📧 Email: `[furqatovuz@gmail.com](https://mail.google.com/mail/u/2/#inbox)`
 - 🌐 Portfolio: [Mening websahifam](https://https://furqatovmuz.vercel.app/)
 - 📬 Telegram: [Telegram](https://t.me/furqatov_m)
 - 📷 Instagram: [Instagram](https://www.instagram.com/muhammadyusuff_uzz/)  
