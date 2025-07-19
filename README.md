@@ -47,7 +47,6 @@
 ### ✨ Fun Fact
 
 > I build websites with my **focus playlist on** and forget time exists 🎧⚡  
-> _“Katta bo'lish bu tanlov emas, ammo buyuk bo'lish tanlovdir.”_
 
 ---
 
