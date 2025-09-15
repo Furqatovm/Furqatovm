@@ -20,7 +20,7 @@
 ### 🛠️ Languages & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,html,css,python,java,sqlite,github,git" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,python,java,sqlite,react,tailwind,bootstrap,github,git" />
 </p>
 
 ---
@@ -50,4 +50,4 @@
 
 ---
 
-> _Built with  by Muhammadyusuf_
+> _Built with ❤️ by Muhammadyusuf_
