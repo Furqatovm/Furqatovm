@@ -8,11 +8,11 @@
 
 ### 👨‍💻 About Me
 
-- 💻 I love coding and solving problems  
+- 💻 Passionate about coding and solving challenging problems  
 - 🔭 Currently working on: **Java projects** and **Web Applications**
 - 📚 Preparing for **AP Computer Science A**
-- 🧠 Skilled in: JavaScript | Python | HTML | CSS | SQLite
-- 🎓 IELTS: 7.0 | CEFR: 57 points
+- 🧠 Skilled in: JavaScript | Python | HTML | CSS | SQLite | React | TypeScript | Tailwind CSS | Bootstrap | Sass
+- 🎓 IELTS: 7.0 | SAT: superscore 1420
 - 🚀 I believe in: **“Discipline beats motivation”**
 
 ---
@@ -36,17 +36,17 @@
 
 ### 🌍 Connect with Me
 
-- 📧 Email: [email](mailto:furqatovuz@gmail.com)
-- 🌐 Portfolio: [Mening websahifam](https://https://furqatovmuz.vercel.app/)
-- 📬 Telegram: [Telegram](https://t.me/furqatov_m)
-- 📷 Instagram: [Instagram](https://www.instagram.com/muhammadyusuff_uzz/)  
-- 💻 GitHub: [github](https://github.com/furqatovmuhammadyusuf)
+- 📧 Email: [furqatovuz@gmail.com](mailto:furqatovuz@gmail.com)
+- 🌐 Portfolio: [My Website](https://furqatovmuz.vercel.app/)
+- 📬 Telegram: [@furqatov_m](https://t.me/furqatov_m)
+- 📷 Instagram: [@muhammadyusuff_uzz](https://www.instagram.com/muhammadyusuf.furqatov/)  
+- 💻 GitHub: [Furqatovm](https://github.com/furqatovmuhammadyusuf)
 
 ---
 
 ### ✨ Fun Fact
 
-> I build websites with my **focus playlist on** and forget time exists 🎧⚡  
+> I build websites with my **focus playlist on** and completely lose track of time 🎧⚡  
 
 ---
 
