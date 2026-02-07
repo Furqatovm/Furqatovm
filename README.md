@@ -27,10 +27,10 @@
 
 ### 📊 GitHub Stats
 
-<p>
+<div style="display: flex; justify-content: space-between;">
   <img src="https://github-readme-stats.vercel.app/api?username=Furqatovm&show_icons=true&theme=tokyonight" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Furqatovm&layout=compact&theme=tokyonight" width="48%" />
-</p>
+</div>
 
 ---
 
