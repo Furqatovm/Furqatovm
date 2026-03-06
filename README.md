@@ -11,7 +11,7 @@
 - 💻 Passionate about coding and solving challenging problems  
 - 🔭 Currently working on: **Java projects** and **Web Applications**
 - 📚 Preparing for **AP Computer Science A**
-- 🧠 Skilled in: JavaScript | Python | HTML | CSS | SQLite | React | TypeScript | Tailwind CSS | Bootstrap | Sass
+- 🧠 Skilled in: JavaScript | Python | HTML | CSS | SQLite | React | TypeScript | Tailwind CSS | Bootstrap | Sass | nextjs 
 - 🎓 IELTS: 7.0 | SAT: superscore 1420
 - 🚀 I believe in: **“Discipline beats motivation”**
 
