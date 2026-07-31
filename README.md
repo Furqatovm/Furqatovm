@@ -1,4 +1,4 @@
-```markdown
+
 <h1 align="center">Hi there 👋, I'm Muhammadyusuf</h1>
 
 <p align="center">
@@ -116,4 +116,3 @@
 <p align="center">
 Made with ❤️ by <b>Muhammadyusuf Furqatov</b>
 </p>
-```
